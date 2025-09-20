@@ -5,8 +5,8 @@
   - [Trước hết hãy thực hiện với /api/liferay](#trước-hết-hãy-thực-hiện-với-apiliferay)
   - [Tiếp đến là /api/spring](#tiếp-đến-là-apispring)
 - [Thực hiện khai thác với hạn chế](#thực-hiện-khai-thác-với-hạn-chế)
-- [Cách FilterChain hoạt động trong Servlet Container](#cách-filterchain-hoạt-động-trong-servlet-container)
-- [Exploit with bypass](#exploit-with-bypass)
+  - [Cách FilterChain hoạt động trong Servlet Container](#cách-filterchain-hoạt-động-trong-servlet-container)
+  - [Exploit with bypass](#exploit-with-bypass)
 - [Patch](#patch)
 
 # Liferay TunnelServlet Deserialization Remote Code Execution (LPE-15538)
