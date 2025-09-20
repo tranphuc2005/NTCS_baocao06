@@ -103,7 +103,9 @@ Tiếp đến nó sẽ thực hiện `deserialize` tại `ObjectValuePair<HttpPr
 
 Tìm đến endpoint có liên quan đến servlet này trong `web.xml` nó nằm ở `liferay-portal-6.1.0-ce-ga1\tomcat-7.0.23\webapps\ROOT\WEB-INF`
 
+
 ### Trước hết hãy thực hiện với /api/liferay
+
 
 - Đây là endpoint **tunnel servlet** trong Liferay.
     
@@ -150,7 +152,9 @@ Tiến Hành chạy scrip với CommonCollections3
 
 ![1](image/17.png) 
 
+
 ### Tiếp đến là /api/spring
+
 
 - Đây là endpoint được cấu hình bởi **Spring DispatcherServlet** trong Liferay.
     
